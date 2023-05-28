@@ -1,0 +1,20 @@
+name: vit
+channels:
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2022.9.24
+  - libffi=3.4.2
+  - libsqlite=3.39.4
+  - libzlib=1.2.13
+  - ncurses=6.3
+  - openssl=3.0.7
+  - pip=22.3
+  - python=3.11.0
+  - readline=8.1.2
+  - setuptools=65.5.1
+  - tk=8.6.12
+  - tzdata=2022f
+  - wheel=0.38.1
+  - xz=5.2.6
+prefix: /Users/satoc/miniforge3/envs/vit
